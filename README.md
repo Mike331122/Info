@@ -4,9 +4,17 @@
   Randoms to aplikacja internetowa stworzona w <strong>Nuxt.js</strong>, która umożliwia użytkownikom interakcję z różnymi API w celu wykonywania operacji, takich jak pobieranie informacji, dodawanie, aktualizowanie czy usuwanie danych. Projekt służy jako praktyczny przykład wykorzystania dynamicznych plików w Nuxt.js i interakcji z API.
 </p>
 
+<h2>Hostowanie:</h2>
+<p>
+  Aplikacja <strong>Randoms</strong> jest hostowana na platformie <strong>Netlify</strong> i jest dostępna pod następującym adresem: 
+  <a href="https://random-api-app.netlify.app" target="_blank">https://random-api-app.netlify.app</a>. 
+  Każdy, kto posiada ten link, może odwiedzić aplikację i przetestować jej funkcjonalności.
+</p>
+
+
 <h2>Obraz poglądowy:</h2>
 <p align="center">
-  <img src="repozytorium/Random-App.png" alt="Zrzut ekranu aplikacji Randoms" width="600">
+  <img src="public/Random-App.png" alt="Zrzut ekranu aplikacji Randoms" width="600">
 </p>
 
 <h2>Funkcjonalności:</h2>
