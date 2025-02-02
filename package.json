@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@vue/devtools-api": "^7.7.1",
-    "pinceau": "^0.18.10"
+    "pinceau": "^0.18.10",
+    "vue-router": "^4.5.0"
   }
 }
