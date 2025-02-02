@@ -20,6 +20,7 @@
     "nuxt": "^3.14.159"
   },
   "dependencies": {
+    "@vue/devtools-api": "^7.7.1",
     "pinceau": "^0.18.10",
     "tslib": "^2.5.1",
     "vue-router": "^4.5.0"
