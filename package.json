@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "pinceau": "^0.18.10",
-    "tslib": "^2.5.1"
+    "tslib": "^2.5.1",
+    "vue-router": "^4.5.0"
   }
 }
