@@ -19,6 +19,7 @@
     "nuxt": "^3.14.159"
   },
   "dependencies": {
+    "@vue/devtools-api": "^7.7.1",
     "pinceau": "^0.18.10"
   }
 }
